@@ -1,5 +1,6 @@
 # GPT-2 class for PHP
 [GPT-2](https://gpt-2.com) API class for PHP
+
 With GPT-2.COM fine-tuned model you can generate unique articles in many affiliate marketing niches, for SEO needs such as: PBN, Link Wheels, Doorways, etc ... 
 
 
