@@ -16,7 +16,7 @@ max_execution_time = 50
 3. get your User ID and API key in dashboard
 ## Usage 
 
-change YOUR_USER_ID and YOUR_API_KEY with your GPT-2.COM account values 
+Replace YOUR_USER_ID and YOUR_API_KEY with your GPT-2.COM account values 
 
 ```php 
 
